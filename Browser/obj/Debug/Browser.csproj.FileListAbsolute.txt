@@ -1,0 +1,9 @@
+c:\users\bohdan\documents\visual studio 2015\Projects\Browser\Browser\bin\Debug\Browser.exe.config
+c:\users\bohdan\documents\visual studio 2015\Projects\Browser\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+c:\users\bohdan\documents\visual studio 2015\Projects\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+c:\users\bohdan\documents\visual studio 2015\Projects\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+c:\users\bohdan\documents\visual studio 2015\Projects\Browser\Browser\bin\Debug\Browser.exe
+c:\users\bohdan\documents\visual studio 2015\Projects\Browser\Browser\bin\Debug\Browser.pdb
+c:\users\bohdan\documents\visual studio 2015\Projects\Browser\Browser\obj\Debug\Browser.exe
+c:\users\bohdan\documents\visual studio 2015\Projects\Browser\Browser\obj\Debug\Browser.pdb
+c:\users\bohdan\documents\visual studio 2015\Projects\Browser\Browser\obj\Debug\Браузер.Form1.resources
